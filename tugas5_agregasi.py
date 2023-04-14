@@ -10,7 +10,7 @@ print('Variabel linguistik : Permintaan, Persediaan, Produksi Barang')
 print('Permintaan Terbesar = 5000 \nPermintaan Terkecil = 1000 \nPersediaan Terbanyak = 600 \nPersediaan Terkecil = 100')
 print('Produksi Barang Berkurang = 7000 \nProduksi Barang Bertambah = 2000')
 
-print('Pertanyaan : ')
+print('\nInputan : ')
 permintaan = int(input('Masukkan  Jumlah Permintaan = '))
 persediaan = int(input('Masukkan Jumlah Persediaan = '))
 
